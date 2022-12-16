@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eugene_portfolio/static/css/main.53a3d61f.css",
+    "main.js": "/eugene_portfolio/static/js/main.6fa18443.js",
+    "static/js/787.dae0f8b8.chunk.js": "/eugene_portfolio/static/js/787.dae0f8b8.chunk.js",
+    "static/media/cert4.PNG": "/eugene_portfolio/static/media/cert4.376adbe4e0bd14950c10.PNG",
+    "static/media/cert1.PNG": "/eugene_portfolio/static/media/cert1.b07a4d0e4048f478ed10.PNG",
+    "static/media/cert2.PNG": "/eugene_portfolio/static/media/cert2.ce56faf7230fadc88cf7.PNG",
+    "static/media/cert3.PNG": "/eugene_portfolio/static/media/cert3.64e51d7f4c065ac2c9f6.PNG",
+    "static/media/eugene.jpg": "/eugene_portfolio/static/media/eugene.5d50cd6b03a7e15940b4.jpg",
+    "index.html": "/eugene_portfolio/index.html",
+    "main.53a3d61f.css.map": "/eugene_portfolio/static/css/main.53a3d61f.css.map",
+    "main.6fa18443.js.map": "/eugene_portfolio/static/js/main.6fa18443.js.map",
+    "787.dae0f8b8.chunk.js.map": "/eugene_portfolio/static/js/787.dae0f8b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a3d61f.css",
+    "static/js/main.6fa18443.js"
+  ]
+}
